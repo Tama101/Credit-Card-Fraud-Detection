@@ -11,3 +11,5 @@ Once the ANN model is trained, it can be used to classify transactions as fraudu
 By combining the ANN and DBSCAN clustering algorithms, we can identify fraudulent activities in a more efficient and accurate manner. The ANN model provides a robust classification of transactions, while the DBSCAN clustering algorithm helps to identify unusual groups of transactions that may be indicative of fraudulent activities.
 
 Overall, credit card fraud detection using ANN and DBSCAN clustering is a promising approach for detecting and preventing fraudulent activities in credit card transactions. This approach can help credit card companies protect their customers from fraud and prevent financial loss.
+
+CLICK HERE --> https://github.com/Tama101/Credit-Card-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb
